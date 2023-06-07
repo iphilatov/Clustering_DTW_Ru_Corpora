@@ -1,4 +1,4 @@
-# Clustering Russian corpora data by DTW
+# Clustering Russian dialect corpora data by DTW
 
 This repository contains some material for the research paper "Oral corpora clustering by comparison of single- and double-syllable word acoustic properties" by Igor Philatov.
 
